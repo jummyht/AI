@@ -1,0 +1,7 @@
+1、打开GIT BASH，输入：cd Desktop
+2、继续输入：cd GIT
+3、把需要上传的文件夹拷贝到桌面的GIT中
+4、输入：git add .
+5、输入：git commit -m "文件的注释（随便写）"
+6、输入：git push origin master
+
